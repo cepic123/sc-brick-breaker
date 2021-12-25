@@ -1,1 +1,1 @@
-Task: Count the number of times the balls hit the lef and right edge.
+Task: Count the number of times the balls hit the leftand right edge.
